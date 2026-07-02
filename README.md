@@ -1,10 +1,10 @@
 # Drag to Cart — Flutter `Draggable` Demo
 
-<!-- 👉 Replace everything in [brackets] with YOUR OWN words. Then delete every line marked with 👉 and this top comment. -->
 
-## What this widget does
-[Write ONE sentence describing what the Draggable widget lets the user do.]
-<!-- 👉 Keep it to a single line — this is the "one-line widget description" the rubric asks for. -->
+
+## A Link to the presentation
+[https://docs.google.com/presentation/d/1bktVj32rvymTia91Ewj16rjvnaSlxzwsLm0OIkYu5A4/edit?usp=sharing]
+
 
 ## How to run
 ```bash
